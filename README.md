@@ -13,19 +13,23 @@ Repository สำหรับเก็บไฟล์ Lab, Project และ Por
 ![](./Certificate/2.png)
 
 ---
-## Capsstone Project
+## Final Project (Capstone Project)
 
 
-1. Network Programmability
+1. Network Programmability 
+
 https://github.com/LynxelSins/NetworkProgrammability.git 
+
 *main dev* 
 
 
-2. 23.2.2 Packet Tracer - Explore a NetFlow Implementation
+2. 23.2.2 Packet Tracer - Explore a NetFlow Implementation 
+
 https://github.com/poranunb-design/Capstone-project-2
  
  
-3. 26.1.6 Lab - Implement CoPP - ILM
+3. 26.1.6 Lab - Implement CoPP - ILM 
+
 https://github.com/kojidesu01/Lab-Implement-CoPP
  
  
